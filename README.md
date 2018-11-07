@@ -1,2 +1,2 @@
 # AutoCap
-startup
+start-up
